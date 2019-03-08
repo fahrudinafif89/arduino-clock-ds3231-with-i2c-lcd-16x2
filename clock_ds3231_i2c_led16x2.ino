@@ -1,4 +1,8 @@
- #include <Wire.h>
+/**********************************code ini dibuat olehttps://github.com/fahrudinafif89 ****************************************
+**********************https://github.com/fahrudinafif89/arduino-clock-ds3231-with-i2c-lcd-16x2 *********************************/
+
+
+#include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 #include "RTClib.h"
